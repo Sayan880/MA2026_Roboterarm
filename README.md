@@ -10,5 +10,5 @@ Anleitung zur Bedienung des technischen Produkts:
 4. Schrittmotor auf 0° physisch Einstellen, aus Sicht der Schraubzwingen soll Der Schulterservo links sein und parallel zur Tischkante.
 5. Raspberry Pi mit USB-C Netzeil mit Strom versorgen (sofern USB-Kamera und Arduino am Raspberry Pi eingesteckt sind)
    
-optional: Während des Sortiervorgangs verlorene Schritte manuell zurechtstellen(bei Home-POsition wieder auf Home stellen(sofern Schritte verloren))
+optional, für bestes Ergebnis: Während des Sortiervorgangs verlorene Schritte manuell zurechtstellen(bei Home-Position wieder auf Home stellen(sofern Schritte verloren))
 
